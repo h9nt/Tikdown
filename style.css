@@ -1,1 +1,23 @@
+body {
+    background: linear-gradient(to right, #4158D0, #C850C0, #ff7092);
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
 
+button {
+    text-align: center;
+    display: block;
+    justify-items: center;
+    width: 100%;
+    line-height: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #fff;
+    color: #4158D0;
+    cursor: pointer;
+}
